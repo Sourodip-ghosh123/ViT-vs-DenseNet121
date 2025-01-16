@@ -1,6 +1,6 @@
 # Vision Transformer for Chest X-Ray Analysis  
 
-![Model Architecture](./ViT_Transformer_Architecture.png)  
+![Model Architecture](./ViT_Transformer_Architecture.png)
 
 ## Overview  
 This repository contains the implementation of a Vision Transformer (ViT) model for the classification and analysis of chest X-ray images. The model segments images into patches, incorporates positional encoding, and uses multi-head self-attention layers to capture long-range dependencies. It is tailored for multi-label classification tasks, making it suitable for detecting multiple thoracic diseases from X-rays.  
