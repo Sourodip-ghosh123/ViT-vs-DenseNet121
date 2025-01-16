@@ -32,7 +32,7 @@ The model is trained and evaluated on chest X-ray datasets such as **NIH Chest X
 ### Installation  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/vit-chest-xray.git  
+   git clone https://github.com/Sourodip-ghosh123/ViT-vs-DenseNet121.git  
    cd vit-chest-xray  
    ```  
 2. Install dependencies:  
