@@ -55,7 +55,7 @@ python inference.py --image-path /path/to/image
 ```  
 
 ## Results  
-The model achieves state-of-the-art performance in multi-label classification of chest X-rays with an overall test accuracy of XX.X% (update with your results).  
+Our results indicate that Vision Transformers (ViT) outperform DenseNet in accuracy and AUC for most pathologies. For instance, the AUC for Cardiomegaly is 0.9150 for ViT compared to 0.9126 for DenseNet, and for Emphysema, the AUC is 0.9380 for ViT, compared to 0.9360 for DenseNet.
 
 ## Acknowledgments  
 Special thanks to the open-source community and contributors of pre-trained ViT models.  
